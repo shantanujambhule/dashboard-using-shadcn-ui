@@ -4,7 +4,11 @@ A modern admin dashboard built with **Next.js 14**, **TypeScript**, **Tailwind C
 
 ## 📸 Preview
 
-![Dashboard Preview](https://github.com/user-attachments/assets/9fef3943-3a54-47f3-a9a5-5531c045a117)
+
+
+
+https://github.com/user-attachments/assets/0013aaf0-b2e6-4e1d-b83f-15364ea7d603
+
 
 ---
 
