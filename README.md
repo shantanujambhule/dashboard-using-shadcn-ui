@@ -1,69 +1,36 @@
-Dashboard Using ShadCN UI
-A modern admin dashboard built with Next.js 14, TypeScript, Tailwind CSS, and ShadCN UI components.
-📸 Preview
+# Dashboard Using ShadCN UI
 
+A modern admin dashboard built with **Next.js 14**, **TypeScript**, **Tailwind CSS**, and **ShadCN UI** components.
 
+## 📸 Preview
 
-https://github.com/user-attachments/assets/9fef3943-3a54-47f3-a9a5-5531c045a117
+![Dashboard Preview](https://github.com/user-attachments/assets/9fef3943-3a54-47f3-a9a5-5531c045a117)
 
+---
 
-🚀 Features
-Responsive and accessible UI
+## 🚀 Features
 
-Dark mode support
+- ⚡ Responsive and accessible UI
+- 🌗 Dark mode support
+- 🧩 Modular component architecture
+- 🔁 Built with Next.js App Router
+- ✅ Type-safe codebase with TypeScript
 
-Modular component architecture
+---
 
-Built with Next.js App Router
+## 🛠️ Tech Stack
 
-Type-safe codebase with TypeScript
+| Purpose        | Tech                |
+|----------------|---------------------|
+| **Framework**  | Next.js 14          |
+| **Language**   | TypeScript          |
+| **Styling**    | Tailwind CSS        |
+| **UI Library** | ShadCN UI           |
 
-🛠️ Tech Stack
-Framework: Next.js 14
-
-Language: TypeScript
-
-Styling: Tailwind CSS
-
-UI Components: ShadCN UI
-
-
-📦 Installation
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/shantanujambhule/dashboard-using-shadcn-ui.git
-cd dashboard-using-shadcn-ui
-Install dependencies:
-
-bash
-Copy
-Edit
-npm install
-# or
-yarn install
-# or
-pnpm install
-Start the development server:
-
-bash
-Copy
-Edit
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-Open in browser:
-
-Navigate to http://localhost:3000 to view the dashboard.
+---
 
 📁 Project Structure
-plaintext
-Copy
-Edit
+
 dashboard-using-shadcn-ui/
 ├── app/                # Next.js app directory
 ├── components/         # Reusable UI components
@@ -79,17 +46,30 @@ dashboard-using-shadcn-ui/
 ├── tailwind.config.js  # Tailwind CSS configuration
 ├── tsconfig.json       # TypeScript configuration
 └── README.md
-🧪 Testing
-Currently, there are no automated tests configured. Contributions to add testing are welcome!
 
-📄 License
-This project is licensed under the MIT License.
-GitHub
+## 📦 Installation
+
+### 1. Install dependencies
+npm install
+# or
+yarn install
+# or
+pnpm install
+
+### 2. Start the development server
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+
+### 3. Open in browser
+Visit: http://localhost:3000
 
 🙌 Acknowledgements
-ShadCN UI for the component library
+ShadCN UI — beautiful component library
+Next.js — React framework
 
-Next.js for the React framework
+Made with ❤️ by Shantanu Jambhule
 
-Tailwind CSS for utility-first styling
-Shadcn UI
+
